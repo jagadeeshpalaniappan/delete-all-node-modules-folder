@@ -1,0 +1,17 @@
+{
+  "name": "del-nodemodules",
+  "version": "1.0.0",
+  "description": "",
+  "main": "deleteall.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "find-remove": "^1.0.0"
+  },
+  "devDependencies": {
+    "del": "^2.2.2"
+  }
+}
